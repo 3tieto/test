@@ -1,5 +1,8 @@
 This sentence uses $\` and \`$ delimiters to show math inline:  $`\sqrt{3x-1}+(1+x)^2`$
 
+This expression uses `\$` to display a dollar sign: $\sqrt{\$4}$
+
+This expression uses `\$` to display a dollar sign: $\sqrt{ \$4}$
 
 ```123```
 
