@@ -14,3 +14,8 @@ _x_
 
 
 </h1>
+
+| Syntax      | Description |
+| ----------- | ----------- |
+|Header| Title       |
+|Paragraph| Text        |
