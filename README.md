@@ -21,12 +21,12 @@
 ${xxx}
 
 用英文字母或者数字，中间的内容不会被翻译
-</a>
 2. 可以翻译混杂 HTML 的 Markdown
 
 `<h1>Dungeons &amp; Dragons</h1>` 会翻译为
 
 <h1>Dungeons &amp; Dragons</h1>
+</a>
 
 3. 不翻译
 
